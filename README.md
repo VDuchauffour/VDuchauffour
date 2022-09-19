@@ -43,7 +43,7 @@ I like electronic music 🎉. I own more than <a href="https://www.discogs.com/u
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark" alt="VDuchauffour's github stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDuchauffour&layout=compact&theme=github_dark" alt="VDuchauffour's language stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&layout=compact&theme=github_dark" alt="VDuchauffour's language stats" />
 <!--   <br /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VDuchauffour&theme=github_dark" alt="VDuchauffour's Wakatime stats" /> -->
 </p>
