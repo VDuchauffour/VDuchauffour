@@ -22,7 +22,7 @@ I like electronic music 🎉. I own more than <a href="https://www.discogs.com/u
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3572A5"/>
   <img alt="Lua" src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=Lua&logoColor=white">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <!-- <br /> -->
+<!--   <br /> -->
   <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
@@ -37,4 +37,13 @@ I like electronic music 🎉. I own more than <a href="https://www.discogs.com/u
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<h2 align="center">📊 Stats</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark" alt="VDuchauffour's github stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDuchauffour&layout=compact&theme=github_dark" alt="VDuchauffour's language stats" />
+<!--   <br /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VDuchauffour&theme=github_dark" alt="VDuchauffour's Wakatime stats" /> -->
 </p>
