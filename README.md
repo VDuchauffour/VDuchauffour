@@ -15,7 +15,7 @@
 
 - I'm Vincent, born in 90's, located in Paris, France. I'm a former social science student and after few IT experiences I decided to move my career towards data science. 
 - I'm (mostly) interested in NLP and explicability (XAI).
-- I use Linux (Arch btw) and I like discovering new FOSS .
+- I use Linux (Arch btw) and Vim. I'm always trying to discover new FOSS.
 - I like electronic music 🎉. I own more than <a href="https://www.discogs.com/user/Voigt_Kampff/collection">400 vinyl records<a/>.
 
   
