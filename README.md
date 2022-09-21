@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Vincent Duchaffour!</h1>
+<h1 align="center">Hi 👋, I'm Vincent Duchaffour!</h1>
 <p align="center">
   <a href="mailto:vincent.duchauffour@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
@@ -12,10 +12,12 @@
 </p>
 
 <h2 align="center">🤗 About me</h2>
-<p align="left">
-I'm Vincent, born in 90's. I'm a former social science student and after few IT experiences I decided to move my career towards data science. I use Linux (Arch btw) and I like discovering new FOSS .
-I like electronic music 🎉. I own more than <a href="https://www.discogs.com/user/Voigt_Kampff/collection">400 vinyl records<a/>.
-</p>
+
+- I'm Vincent, born in 90's, located in Paris, France. I'm a former social science student and after few IT experiences I decided to move my career towards data science. 
+- I'm (mostly) interested in NLP and explicability (XAI).
+- I use Linux (Arch btw) and I like discovering new FOSS .
+- I like electronic music 🎉. I own more than <a href="https://www.discogs.com/user/Voigt_Kampff/collection">400 vinyl records<a/>.
+
   
 <h2 align="center">👩‍💻 Tech</h1>
 <p align="center">
