@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vincent Duchaffour!</h1>
+<h1 align="center">Hi 👋, I'm Vincent!</h1>
 <p align="center">
   <a href="mailto:vincent.duchauffour@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
@@ -13,8 +13,8 @@
 
 <h2 align="center">🤗 About me</h2>
 
-- I'm Vincent, born in 90's, located in Paris, France. I'm a former social science student and after few IT experiences I decided to move my career towards data science. 
-- I'm (mostly) interested in NLP and explicability (XAI).
+- I'm Vincent, located in Paris, France. I'm a former social science student and after few IT experiences I decided to move my career towards data science. 
+- I'm interested in NLP, CV and explicability (XAI).
 - I use Linux (Arch btw) and Vim. I'm always trying to discover new FOSS.
 - I like electronic music 🎉. I own more than <a href="https://www.discogs.com/user/Voigt_Kampff/collection">400 vinyl records<a/>.
 
@@ -33,7 +33,7 @@
 
 <h2 align="center">⚙️ Tools</h1>
 <p align="center">
-  <a href="https://archlinux.org/"><img alt="Archlinux" src="https://img.shields.io/badge/Archlinux-white?style=for-the-badge&logo=Archlinux&logoColor=blue">
+  <img alt="Archlinux" src="https://img.shields.io/badge/Archlinux-white?style=for-the-badge&logo=Archlinux&logoColor=blue">
   <img alt="Vim" src="https://img.shields.io/badge/Vim-darkgreen?style=for-the-badge&logo=VIm&logoColor=white">
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-lightgrey?style=for-the-badge&logo=neovim&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
