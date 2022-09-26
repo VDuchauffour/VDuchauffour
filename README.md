@@ -43,9 +43,9 @@
 
 <h2 align="center">📊 Stats</h1>
 <p align="center">
-  <img alt="VDuchauffour's github stats" src="https://github-readme-stats.vercel.app/api?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
+  <img align="center" alt="VDuchauffour's github stats" src="https://github-readme-stats.vercel.app/api?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
   <br />
-  <img alt="VDuchauffour's language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&layout=compact&theme=react"/>
-<!--   <br /> -->
-  <img alt="VDuchauffour's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=VDuchauffour&theme=react"/>
+  <img align="center" alt="VDuchauffour's language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&layout=compact&theme=react"/>
+<!--   <br />
+  <img align="center" alt="VDuchauffour's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=VDuchauffour&theme=react"/> -->
 </p>
