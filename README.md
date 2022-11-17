@@ -46,6 +46,10 @@
 <p align="center">
   <img align="center" alt="VDuchauffour's github stats" src="https://github-readme-stats.vercel.app/api?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
   <br />
+  <br />
+  <img align="center" alt="VDuchauffour's streak stats" src="https://streak-stats.demolab.com?user=VDuchauffour&theme=react"/>
+  <br />
+  <br />
   <img align="center" alt="VDuchauffour's language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&layout=compact&theme=react"/>
 <!--   <br />
   <img align="center" alt="VDuchauffour's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=VDuchauffour&theme=react"/> -->
