@@ -19,7 +19,9 @@
 - I use Linux (Arch btw) and Vim. I'm always trying to discover new FOSS.
 - I like electronic music. I own more than <a href="https://www.discogs.com/user/Voigt_Kampff/collection">400 vinyl records<a/>.
 
-  
+I made a few side projects:
+- <a href="https://github.com/VDuchauffour/transformers-visualizer">transformers-visualizer</a>: Explain your 🤗 transformers without effort! Plot the internal behavior of your model. 
+
 <h2 align="center">👩‍💻 Tech</h1>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3572A5"/>
