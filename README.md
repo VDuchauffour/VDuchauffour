@@ -57,8 +57,9 @@ I made a few side projects:
   <img align="center" alt="VDuchauffour's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=VDuchauffour&theme=react"/> -->
 </p>
 
-<details><summary>WakaTime stats</summary>
 <p align="center">
+<details><summary>WakaTime stats</summary>
+
 <!--START_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%202%20mins-blue)
@@ -118,5 +119,5 @@ cfg                      35 mins             ░░░░░░░░░░░�
  Last Updated on 26/01/2023 18:09:02 UTC
 
 <!--END_SECTION:waka-->
-</p>
 </details>
+</p>
