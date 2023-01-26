@@ -57,8 +57,8 @@ I made a few side projects:
   <img align="center" alt="VDuchauffour's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=VDuchauffour&theme=react"/> -->
 </p>
 
-<p align="center">
 <details><summary>WakaTime stats</summary>
+<br />
 
 <!--START_SECTION:waka-->
 
@@ -120,4 +120,3 @@ cfg                      35 mins             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </details>
-</p>
