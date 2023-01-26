@@ -56,3 +56,8 @@ I made a few side projects:
 <!--   <br />
   <img align="center" alt="VDuchauffour's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=VDuchauffour&theme=react"/> -->
 </p>
+
+<p align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</p>
