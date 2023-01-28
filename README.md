@@ -61,7 +61,7 @@ I made a few side projects:
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13%20Thousand%20lines%20of%20code-blue)
 
@@ -113,6 +113,6 @@ Other                    46 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 27/01/2023 16:46:48 UTC
+ Last Updated on 28/01/2023 00:42:33 UTC
 <!--END_SECTION:waka-->
 </details>
