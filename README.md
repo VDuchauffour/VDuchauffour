@@ -1,18 +1,18 @@
 ### Hi 👋, I'm Vincent!</h1>
 
-- I'm Vincent, located in Paris, France. I'm a former social science student and after few IT experiences I decided to move my career towards data science. 
+- I'm Vincent, located in Paris, France. I'm a former social science student and after few IT experiences I decided to move my career towards data science.
 - I work at <a href="https://www.kinetix.tech/">Kinetix<a/> as Machine Learning Engineer.
 - I'm interested in NLP, CV and explicability (XAI).
 - I use Linux (Arch btw) and Vim. I'm always trying to discover new FOSS.
 - I like electronic music. I own more than <a href="https://www.discogs.com/user/Voigt_Kampff/collection">400 vinyl records<a/>.
 
-### Few side projects I made
+### 📦 Side projects I made
   
 - [neodark.nvim](https://github.com/VDuchauffour/neodark.nvim): A simple onedark based colorscheme for Neovim.
 - [transformers-visualizer](https://github.com/VDuchauffour/transformers-visualizer): Explain your 🤗 transformers without effort! Plot the internal behavior of your model. 
 
 ### 📊 Some stats
-<p align="center">
+<p align="left">
   <img align="center" alt="VDuchauffour's github stats" src="https://github-readme-stats.vercel.app/api?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
   <br />
   <br />
