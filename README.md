@@ -22,7 +22,6 @@
   <!--   <br />
   <img alt="VDuchauffour's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=VDuchauffour&theme=react"/> -->
 </p>
-<br />
 
 #### 🧭 Wakatime stats
 <!--START_SECTION:waka-->
