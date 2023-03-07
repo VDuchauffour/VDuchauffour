@@ -11,7 +11,7 @@
 - [neodark.nvim](https://github.com/VDuchauffour/neodark.nvim): A simple onedark based colorscheme for Neovim.
 - [transformers-visualizer](https://github.com/VDuchauffour/transformers-visualizer): Explain your 🤗 transformers without effort! Plot the internal behavior of your model. 
 
-### 📊 Some stats
+<details><summary>📊 Some stats</summary>  
 <p align="left">
   <img alt="VDuchauffour's github stats" src="https://github-readme-stats.vercel.app/api?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
   <br />
@@ -23,8 +23,6 @@
   <!--   <br />
   <img alt="VDuchauffour's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=VDuchauffour&theme=react"/> -->
 </p>
-  
-<details><summary>WakaTime stats</summary>
 <br />
 
 <!--START_SECTION:waka-->
