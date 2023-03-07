@@ -11,19 +11,7 @@
 - [neodark.nvim](https://github.com/VDuchauffour/neodark.nvim): A simple onedark based colorscheme for Neovim.
 - [transformers-visualizer](https://github.com/VDuchauffour/transformers-visualizer): Explain your 🤗 transformers without effort! Plot the internal behavior of your model. 
 
-### Get in touch
-  
-<a href="mailto:vincent.duchauffour@proton.me">
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" alt="ProtonMail" />
-</a>
-<a href="https://www.linkedin.com/in/vincent-duchauffour-3a9641155/">
-  <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" />
-</a>
-<a href="https://twitter.com/VDuchauffour">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-
-📊 Some stats
+### 📊 Some stats
   
 <img align="center" alt="VDuchauffour's github stats" src="https://github-readme-stats.vercel.app/api?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
 <br />
