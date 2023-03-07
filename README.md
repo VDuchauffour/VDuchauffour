@@ -12,12 +12,11 @@
 - [transformers-visualizer](https://github.com/VDuchauffour/transformers-visualizer): Explain your 🤗 transformers without effort! Plot the internal behavior of your model. 
 
 <details><summary>📊 Some stats</summary>  
+  
 <p align="left">
   <img alt="VDuchauffour's github stats" src="https://github-readme-stats.vercel.app/api?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
   <br />
-  <br />
   <img alt="VDuchauffour's streak stats" src="https://streak-stats.demolab.com?user=VDuchauffour&theme=react"/>
-  <br />
   <br />
   <img alt="VDuchauffour's language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&layout=compact&theme=react"/>
   <!--   <br />
@@ -25,6 +24,7 @@
 </p>
 <br />
 
+#### Wakatime stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2047%20mins-blue)
 
