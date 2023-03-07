@@ -24,7 +24,7 @@
 </p>
 <br />
 
-#### Wakatime stats
+#### 🧭 Wakatime stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2047%20mins-blue)
 
