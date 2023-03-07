@@ -1,5 +1,18 @@
 ### Hi 👋, I'm Vincent!</h1>
 
+- I'm Vincent, located in Paris, France. I'm a former social science student and after few IT experiences I decided to move my career towards data science. 
+- I work at <a href="https://www.kinetix.tech/">Kinetix<a/> as Machine Learning Engineer.
+- I'm interested in NLP, CV and explicability (XAI).
+- I use Linux (Arch btw) and Vim. I'm always trying to discover new FOSS.
+- I like electronic music. I own more than <a href="https://www.discogs.com/user/Voigt_Kampff/collection">400 vinyl records<a/>.
+
+### Few side projects I made
+  
+- [neodark.nvim](https://github.com/VDuchauffour/neodark.nvim): A simple onedark based colorscheme for Neovim.
+- [transformers-visualizer](https://github.com/VDuchauffour/transformers-visualizer): Explain your 🤗 transformers without effort! Plot the internal behavior of your model. 
+
+### Get in touch
+  
 <a href="mailto:vincent.duchauffour@proton.me">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" alt="ProtonMail" />
 </a>
@@ -10,41 +23,7 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 
-🤗 About me
-
-- I'm Vincent, located in Paris, France. I'm a former social science student and after few IT experiences I decided to move my career towards data science. 
-- I work at <a href="https://www.kinetix.tech/">Kinetix<a/> as Machine Learning Engineer.
-- I'm interested in NLP, CV and explicability (XAI).
-- I use Linux (Arch btw) and Vim. I'm always trying to discover new FOSS.
-- I like electronic music. I own more than <a href="https://www.discogs.com/user/Voigt_Kampff/collection">400 vinyl records<a/>.
-
-I made a few side projects:
-- <a href="https://github.com/VDuchauffour/transformers-visualizer">transformers-visualizer</a>: Explain your 🤗 transformers without effort! Plot the internal behavior of your model. 
-
-👩‍💻 Some tech I use
-  <p align="left"> 
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=3572A5"/>
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-000080?style=flat&logo=Lua&logoColor=white">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" />
-  <!--   <br /> -->
-  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  </p>
-
-⚙️ Some tools I use
-  
-<p align="left">
-  <img alt="Archlinux" src="https://img.shields.io/badge/Archlinux-white?style=flat&logo=Archlinux&logoColor=blue">
-  <img alt="Vim" src="https://img.shields.io/badge/Vim-darkgreen?style=flat&logo=VIm&logoColor=white">
-  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-lightgrey?style=flat&logo=neovim&logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-grey?style=flat&logo=github&logoColor=white"/>
-</p>
-    
-📊 Stats
+📊 Some stats
   
 <img align="center" alt="VDuchauffour's github stats" src="https://github-readme-stats.vercel.app/api?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
 <br />
