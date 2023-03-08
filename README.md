@@ -1,4 +1,4 @@
-### Hello, World! 👋</h1>
+### 👋 Hello, World!
 
 - I'm Vincent, located in Paris, France. I'm a former social science student and after few IT experiences I decided to move my career towards data science.
 - I work at <a href="https://www.kinetix.tech/">Kinetix<a/> as Machine Learning Engineer.
