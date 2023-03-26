@@ -1,6 +1,6 @@
 ### 👋 Hello, World!
 
-- I'm Vincent, located in Paris, France. I'm a former social science student and after few IT experiences I decided to move my career towards data science. You can find my resume [here](https://github.com/VDuchauffour/resume/blob/main/resume.pdf).
+- I'm Vincent, located in Paris, France. I'm a former social science student and after few IT experiences I decided to move my career towards data science. You can find my resume [here](https://raw.githubusercontent.com/VDuchauffour/resume/main/resume.pdf).
 - I work at <a href="https://www.kinetix.tech/">Kinetix<a/> as Machine Learning Engineer.
 - I'm interested in NLP, CV and explicability (XAI).
 - I use Linux (Arch btw) and Vim. I'm always trying to discover new FOSS.
