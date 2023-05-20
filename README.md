@@ -25,7 +25,7 @@
 
 #### 🧭 Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-685%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-162.2%20thousand%20lines%20of%20code-blue)
 
@@ -33,11 +33,11 @@
 
 > 📦 27.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,709 Contributions in the Year 2023
+> 🏆 1,710 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -66,14 +66,14 @@ Sunday                   80 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     4 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.80 % 
-TOML                     3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-TeX                      1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Python                   1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+TOML                     2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+YAML                     2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+TeX                      1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Python                   1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 ```
 
 
- Last Updated on 19/05/2023 00:39:50 UTC
+ Last Updated on 20/05/2023 00:38:31 UTC
 <!--END_SECTION:waka-->
 </details>
