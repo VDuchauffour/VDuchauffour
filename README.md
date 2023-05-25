@@ -4,7 +4,8 @@
 - I'm a former social science student and after few IT experiences I decided to move my career towards data science. I am nowadays working closely on software engineering aspects of machine learning projects.
 - I work at [Kinetix](https://www.kinetix.tech/) as Machine Learning Engineer.
 - I'm interested in NLP, CV and explicability (XAI).
-- I use Linux (Arch btw) and Vim. I'm always trying to discover new FOSS. I like to contribute to open source projects at my free time.
+- I like to contribute to open source projects at my free time.
+- I use Linux (Arch btw) and Vim. I'm always trying to discover new FOSS.
 - I like electronic music. I own more than [400 vinyl records](https://www.discogs.com/user/Voigt_Kampff/collection).
 
 ### 🔗 Get in touch
