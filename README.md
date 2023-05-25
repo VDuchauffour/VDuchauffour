@@ -1,15 +1,22 @@
 ### 👋 Hello, World!
 
-- I'm Vincent, located in Paris, France. I'm a former social science student and after few IT experiences I decided to move my career towards data science. You can find my resume [here](https://raw.githubusercontent.com/VDuchauffour/resume/main/resume.pdf).
-- I work at <a href="https://www.kinetix.tech/">Kinetix<a/> as Machine Learning Engineer.
+- I'm Vincent, located in Paris, France.
+- I'm a former social science student and after few IT experiences I decided to move my career towards data science. I am nowadays working closely on software engineering aspects of machine learning projects.
+- I work at [Kinetix](https://www.kinetix.tech/) as Machine Learning Engineer.
 - I'm interested in NLP, CV and explicability (XAI).
 - I use Linux (Arch btw) and Vim. I'm always trying to discover new FOSS.
-- I like electronic music. I own more than <a href="https://www.discogs.com/user/Voigt_Kampff/collection">400 vinyl records<a/>.
+- I like electronic music. I own more than [400 vinyl records](https://www.discogs.com/user/Voigt_Kampff/collection).
+
+### 🔗 Get in touch
+
+- You can find my resume [here](https://raw.githubusercontent.com/VDuchauffour/resume/main/resume.pdf).
+- You can reach me [there](https://www.linkedin.com/in/vincent-duchauffour-3a9641155/).
 
 ### 📦 Side projects I made
-  
-- [neodark.nvim](https://github.com/VDuchauffour/neodark.nvim): A simple onedark based colorscheme for Neovim.
+
+- [anyboxes](https://github.com/VDuchauffour/anyboxes): Lightweight package for managing bounding boxes that works seamlessly with most computing frameworks.
 - [transformers-visualizer](https://github.com/VDuchauffour/transformers-visualizer): Explain your 🤗 transformers without effort! Plot the internal behavior of your model. 
+- [neodark.nvim](https://github.com/VDuchauffour/neodark.nvim): A simple onedark based colorscheme for Neovim.
 
 <details><summary>📊 Some stats</summary>  
   
