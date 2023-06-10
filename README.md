@@ -22,7 +22,7 @@
 <details><summary>📊 Some stats</summary>  
   
 <p align="center">
-  <img alt="VDuchauffour's github stats" src="https://github-readme-stats.vercel.app/api?username=VDuchauffour&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
+  <img alt="VDuchauffour's github stats" src="https://github-readme-stats.vercel.app/api?username=VDuchauffour&include_all_commits=true&show_icons=true&theme=react"/>
   <br />
   <img alt="VDuchauffour's streak stats" src="https://streak-stats.demolab.com?user=VDuchauffour&theme=react"/>
   <br />
