@@ -33,7 +33,7 @@
 
 #### 🧭 Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.4%20thousand%20lines%20of%20code-blue)
 
@@ -74,12 +74,12 @@ Sunday                   44 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 24 mins       ██████████████████░░░░░░░   70.12 % 
-Markdown                 1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+Python                   3 hrs 24 mins       █████████████████░░░░░░░░   69.82 % 
+Markdown                 1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.77 % 
 Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 
- Last Updated on 28/06/2023 00:47:32 UTC
+ Last Updated on 29/06/2023 00:46:28 UTC
 <!--END_SECTION:waka-->
 </details>
