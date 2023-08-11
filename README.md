@@ -33,7 +33,7 @@
 
 #### 🧭 Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-788%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-789%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.7%20thousand%20lines%20of%20code-blue)
 
@@ -41,13 +41,13 @@
 
 > 📦 43.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,578 Contributions in the Year 2023
+> 🏆 1,579 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 1 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -74,14 +74,14 @@ Sunday                   66 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      30 mins             █████████░░░░░░░░░░░░░░░░   35.29 % 
-Docker                   25 mins             ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-INI                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Python                   38 mins             ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+C++                      30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Docker                   25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+sh                       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+INI                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 ```
 
 
- Last Updated on 10/08/2023 00:42:07 UTC
+ Last Updated on 11/08/2023 00:32:12 UTC
 <!--END_SECTION:waka-->
 </details>
