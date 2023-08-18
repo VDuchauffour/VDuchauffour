@@ -1,7 +1,7 @@
 ### 👋 Hello, World!
 
 - I'm Vincent, located in Paris, France.
-- I'm a former social science student and after few IT experiences I decided to move my career towards data science. I am nowadays working closely on software engineering aspects of machine learning projects.
+- I'm a former social science student and after few IT experiences I decided to move my career towards data science. I am nowadays working closely on MLOps and software engineering aspects of machine learning projects.
 - I work as Machine Learning Engineer.
 - I'm interested in NLP, CV and explicability (XAI).
 - I like to contribute to open source projects at my free time.
