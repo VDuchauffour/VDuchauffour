@@ -2,10 +2,8 @@
 
 - I'm Vincent, located in Paris, France.
 - I am working closely on MLOps and software engineering aspects of machine learning projects.
-- I'm interested in NLP, CV and explicability (XAI).
 - I like to contribute to open source projects at my free time.
 - I use Linux (Arch btw) and Vim. I'm always trying to discover new FOSS.
-- I like electronic music. I own more than [400 vinyl records](https://www.discogs.com/user/Voigt_Kampff/collection).
 
 ### 🔗 Get in touch
 
