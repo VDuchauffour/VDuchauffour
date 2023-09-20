@@ -30,7 +30,7 @@
 
 #### 🧭 Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-960%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -38,13 +38,13 @@
 
 > 📦 978.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,696 Contributions in the Year 2023
+> 🏆 1,698 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 2 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -71,14 +71,14 @@ Sunday                   84 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   36 hrs 50 mins      ████████████████████████░   97.58 % 
-INI                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Makefile                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-GDScript                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Python                   38 hrs 43 mins      ████████████████████████░   97.05 % 
+INI                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+ActionScript             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 
- Last Updated on 19/09/2023 00:34:34 UTC
+ Last Updated on 20/09/2023 00:34:14 UTC
 <!--END_SECTION:waka-->
 </details>
