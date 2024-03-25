@@ -14,7 +14,6 @@
 
 - [anyboxes](https://github.com/VDuchauffour/anyboxes): Lightweight package for managing bounding boxes that works seamlessly with most computing frameworks.
 - [transformers-visualizer](https://github.com/VDuchauffour/transformers-visualizer): Explain your 🤗 transformers without effort! Plot the internal behavior of your model. 
-- [neodark.nvim](https://github.com/VDuchauffour/neodark.nvim): A simple onedark based colorscheme for Neovim.
 
 <details><summary>📊 Some stats</summary>  
   
