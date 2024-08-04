@@ -29,13 +29,15 @@
 
 #### 🧭 Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C055%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C056%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 981.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 719 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,12 +70,10 @@ Sunday                   295 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 27 mins       ████████████████████████░   95.75 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+C++                      59 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/08/2024 00:42:25 UTC
+ Last Updated on 04/08/2024 00:46:34 UTC
 <!--END_SECTION:waka-->
 </details>
