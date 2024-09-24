@@ -12,8 +12,8 @@
 
 ### 📦 Side projects I made
 
-- [anyboxes](https://github.com/VDuchauffour/anyboxes): Lightweight package for managing bounding boxes that works seamlessly with most computing frameworks.
-- [transformers-visualizer](https://github.com/VDuchauffour/transformers-visualizer): Explain your 🤗 transformers without effort! Plot the internal behavior of your model. 
+- [RFCE](https://github.com/VDuchauffour/RFCEurope): Enhanced edition of the RFCEurope mod for Civilization IV: Beyond the Sword, based on the popular Rhye's and Fall of Civilization mod. 
+- [anyboxes](https://github.com/VDuchauffour/anyboxes): Lightweight package for managing bounding boxes that works seamlessly with most computing frameworks. 
 
 <details><summary>📊 Some stats</summary>  
   
