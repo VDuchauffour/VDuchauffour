@@ -12,5 +12,5 @@
 
 ### 📦 Side projects I made
 
-- [RFCE](https://github.com/VDuchauffour/RFCEurope): Enhanced edition of the RFCEurope mod for Civilization IV: Beyond the Sword, based on the popular Rhye's and Fall of Civilization mod. 
+- [RFC3E](https://github.com/VDuchauffour/RFCEurope): Enhanced edition of the RFCEurope mod for Civilization IV: Beyond the Sword, based on the popular Rhye's and Fall of Civilization mod. 
 
