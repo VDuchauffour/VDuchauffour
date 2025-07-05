@@ -2,7 +2,7 @@
 
 - I'm Vincent, located in Paris, France.
 - I am working closely on MLOps and software engineering aspects of machine learning projects.
-- I use Linux (Arch and NixOS) and Neovim. I'm always trying to discover new FOSS.
+- I use Linux (Arch and NixOS). I'm always trying to discover new FOSS.
 
 ### 🔗 Get in touch
 
