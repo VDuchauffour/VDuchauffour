@@ -6,7 +6,7 @@
 
 ### 🔗 Get in touch
 
-- You can reach me on [Linkedin](https://www.linkedin.com/in/vincent-duchauffour-3a9641155/) or by [mail](mailto:vincent.duchauffour@proton.me).
+- You can reach me on [Linkedin](https://www.linkedin.com/in/vincent-duchauffour-3a9641155/).
 - You can find my resume [here](https://raw.githubusercontent.com/VDuchauffour/resume/main/resume.pdf).
 
 ### 📦 Side projects I made
