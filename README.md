@@ -2,7 +2,7 @@
 
 - I'm Vincent, located in Paris, France.
 - I am working closely on MLOps and software engineering aspects of machine learning projects.
-- I use Linux (NixOS). I'm always trying to discover and try new FOSS.
+- I use Linux (NixOS). I'm always looking to discover and try out new free software.
 
 ### 🔗 Get in touch
 
