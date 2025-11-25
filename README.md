@@ -8,8 +8,3 @@
 
 - You can reach me on [Linkedin](https://www.linkedin.com/in/vincent-duchauffour-3a9641155/).
 - You can find my resume [here](https://raw.githubusercontent.com/VDuchauffour/resume/main/resume.pdf).
-
-### 📦 Side projects I made
-
-- [RFC3E](https://github.com/VDuchauffour/RFCEurope): Enhanced edition of the RFCEurope mod for Civilization IV: Beyond the Sword, based on the popular Rhye's and Fall of Civilization mod. 
-
