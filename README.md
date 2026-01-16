@@ -9,7 +9,7 @@
 - You can reach me on [Linkedin](https://www.linkedin.com/in/vincent-duchauffour-3a9641155/).
 - You can find my resume [here](https://raw.githubusercontent.com/VDuchauffour/resume/main/resume.pdf).
 
-#### ⚙️ Homelab
+### ⚙️ Homelab
 
 I have my own homelab, and all of its configurations are public and open source: 
 - [nix-config](https://github.com/vDuchauffour/nix-config): contains my unified Nix configuration for all my hosts.
