@@ -11,6 +11,6 @@
 
 ### ⚙️ Homelab
 
-I have my own homelab, and all of its configurations are public and open source: 
-- [nix-config](https://github.com/vDuchauffour/nix-config): contains my unified Nix configuration for all my hosts.
-- [homelab](https://github.com/VDuchauffour/homelab/): contains everything related to my homelab, which is as a Kubernetes cluster. 
+The configuration of my homelab and my hosts is public and open source: 
+- [nix-config](https://github.com/vDuchauffour/nix-config): my unified Nix configuration.
+- [homelab](https://github.com/VDuchauffour/homelab/): an opinionated Kubernetes-based homelab.
