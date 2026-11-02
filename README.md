@@ -15,4 +15,3 @@ The configuration of my homelab and my hosts is public and open source:
 Here are some of my projects:
 - [tokos](https://github.com/VDuchauffour/tokos): A lightweight terminal UI for real-time monitoring of inference server metrics
 - [pvox](https://github.com/VDuchauffour/pvox): A k9s-like terminal UI for Proxmox VE
-- [usus](https://github.com/VDuchauffour/usus): A CLI that reports AI inference usage against your allowance
